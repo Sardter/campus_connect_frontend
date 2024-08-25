@@ -1,0 +1,55 @@
+name: campus_connect_frontend
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  another_flushbar: ^1.12.30
+  any_link_preview: ^3.0.1
+  cached_network_image: ^3.3.0
+  carousel_slider: ^4.2.1
+  decimal: ^2.3.3
+  device_info_plus: ^9.0.3
+  expandable: ^5.0.1
+  flutter:
+    sdk: flutter
+  flutter_advanced_segment: ^3.0.2
+  image_picker: ^1.0.4
+  intl: ^0.18.1
+  latlong2: ^0.9.0
+  line_icons: ^2.0.3
+  localstorage: ^4.0.1+4
+  omni_datetime_picker: ^1.0.9
+  pull_to_refresh: ^2.0.0
+  qr_flutter: ^4.1.0
+  reorderable_grid_view: ^2.2.7
+  sticky_headers: ^0.3.0+2
+  table_calendar: ^3.0.9
+  video_thumbnail: ^0.5.3
+  visibility_detector: ^0.4.0+2
+  email_validator: ^2.1.17
+  http: ^1.1.0
+  flutter_chat_ui: ^1.6.10
+  flutter_chat_types: ^3.6.2
+  duration: ^3.0.13
+  flutter_speed_dial: ^7.0.0
+  mime: ^1.0.4
+  image_picker_web: ^3.1.1
+  http_parser: ^4.0.2
+  flutter_local_notifications: ^16.2.0
+  web_socket_channel: ^2.4.0
+  uuid: ^4.2.1
+  meta: ^1.9.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
